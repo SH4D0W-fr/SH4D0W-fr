@@ -1,15 +1,15 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://gitascii.com/api/user/sh4d0w-fr?v=1"
+    srcset="https://raw.githubusercontent.com/SH4D0W-fr/SH4D0W-fr/gitascii/profiles/default/dark.svg"
   >
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://gitascii.com/api/user/sh4d0w-fr?v=1"
+    srcset="https://raw.githubusercontent.com/SH4D0W-fr/SH4D0W-fr/gitascii/profiles/default/light.svg"
   >
   <img
     alt="GitAscii Profile"
-    src="https://gitascii.com/api/user/sh4d0w-fr?v=1"
+    src="https://raw.githubusercontent.com/SH4D0W-fr/SH4D0W-fr/gitascii/profiles/default/dark.svg"
     width="100%"
   >
 </picture>
