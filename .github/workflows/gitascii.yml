@@ -2,6 +2,12 @@ name: Update GitAscii
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "0 4 * * *"   # régénère le SVG chaque jour à 4h UTC
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/gitascii.yml"
 
 permissions:
   contents: write
